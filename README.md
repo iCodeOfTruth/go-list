@@ -1,6 +1,11 @@
 # go-list
 List Manager created in Go
 
+# How to install
+```
+go get -u github.com/iCodeOfTruth/go-list
+```
+
 # Usage
 
 ```golang
